@@ -1,0 +1,192 @@
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/package-lock.json
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/AksjeApp2
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/AksjeApp2.deps.json
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/AksjeApp2.runtimeconfig.json
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/AksjeApp2.runtimeconfig.dev.json
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/AksjeApp2.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/AksjeApp2.pdb
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/AksjeApp2.Views.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/AksjeApp2.Views.pdb
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Castle.Core.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.NodeServices.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.SpaServices.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.SpaServices.Extensions.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Proxies.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Configuration.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Console.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Serilog.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Serilog.Extensions.Logging.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Serilog.Extensions.Logging.File.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Serilog.Formatting.Compact.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Serilog.Sinks.Async.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Serilog.Sinks.File.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Serilog.Sinks.RollingFile.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.csproj.AssemblyReference.cache
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.AssemblyInfoInputs.cache
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.AssemblyInfo.cs
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.csproj.CoreCompileInputs.cache
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.MvcApplicationPartsAssemblyInfo.cs
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.MvcApplicationPartsAssemblyInfo.cache
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.RazorAssemblyInfo.cache
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.RazorAssemblyInfo.cs
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/staticwebassets/AksjeApp2.StaticWebAssets.Manifest.cache
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/staticwebassets/AksjeApp2.StaticWebAssets.Pack.cache
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.AksjeApp2.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.build.AksjeApp2.props
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildMultiTargeting.AksjeApp2.props
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildTransitive.AksjeApp2.props
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.TagHelpers.input.cache
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.TagHelpers.output.cache
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.RazorCoreGenerate.cache
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.RazorTargetAssemblyInfo.cache
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.RazorTargetAssemblyInfo.cs
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.Views.pdb
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.csproj.CopyComplete
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.dll
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.pdb
+/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.genruntimeconfig.cache
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/package-lock.json
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/AksjeApp2
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/AksjeApp2.deps.json
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/AksjeApp2.runtimeconfig.json
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/AksjeApp2.runtimeconfig.dev.json
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/AksjeApp2.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/AksjeApp2.pdb
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/AksjeApp2.Views.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/AksjeApp2.Views.pdb
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Castle.Core.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.NodeServices.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.SpaServices.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.SpaServices.Extensions.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Proxies.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Configuration.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Console.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Serilog.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Serilog.Extensions.Logging.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Serilog.Extensions.Logging.File.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Serilog.Formatting.Compact.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Serilog.Sinks.Async.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Serilog.Sinks.File.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/Serilog.Sinks.RollingFile.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.csproj.AssemblyReference.cache
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.AssemblyInfoInputs.cache
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.AssemblyInfo.cs
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.csproj.CoreCompileInputs.cache
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.MvcApplicationPartsAssemblyInfo.cs
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.MvcApplicationPartsAssemblyInfo.cache
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.RazorAssemblyInfo.cache
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.RazorAssemblyInfo.cs
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/staticwebassets/AksjeApp2.StaticWebAssets.Manifest.cache
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/staticwebassets/AksjeApp2.StaticWebAssets.Pack.cache
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.AksjeApp2.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.build.AksjeApp2.props
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildMultiTargeting.AksjeApp2.props
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildTransitive.AksjeApp2.props
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.TagHelpers.input.cache
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.TagHelpers.output.cache
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.RazorCoreGenerate.cache
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.RazorTargetAssemblyInfo.cache
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.RazorTargetAssemblyInfo.cs
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.Views.pdb
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.csproj.CopyComplete
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.dll
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.pdb
+/Users/enesergin/Desktop/Gruppeoppgave 2/AksjeApp2/AksjeApp2/obj/Debug/netcoreapp3.1/AksjeApp2.genruntimeconfig.cache

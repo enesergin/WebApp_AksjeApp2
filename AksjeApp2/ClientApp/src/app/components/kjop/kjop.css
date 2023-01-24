@@ -1,0 +1,63 @@
+﻿.ordre-container {
+    height: 80vh;
+    width: 100%;
+    padding: 5rem;
+    border-radius: 25px;
+    background-color: #1E1E1E;
+    color: white;
+    display: flex;
+}
+
+
+.aksjeinfo {
+   flex-basis: 50%;
+   flex-direction: column;
+   justify-content: flex-end;
+   margin: 2rem; 
+}
+
+.aksjeinfo h3, h4 {
+    margin: 1rem; 
+}
+
+.profile {
+    display: flex;
+    color: white;
+}
+
+.profile p {
+    color: white;
+    margin: 0.5rem;
+}
+
+
+
+.bekreftelse {
+    margin: 2rem; 
+}
+
+
+.line {
+    background-color: green;
+    height: 90%;
+    width: 1px; 
+}
+
+
+label {
+    margin-top: 2rem; 
+}
+
+.orderBtn {
+    background-color: white;
+    color: black;
+    width: 10vh;
+    height: 4vh;
+    border-radius: 5px;
+    border: none;
+    margin-right: 1rem; 
+}
+
+
+
+

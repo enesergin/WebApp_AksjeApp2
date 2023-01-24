@@ -1,0 +1,429 @@
+2022-11-28T17:32:44.7664890+01:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-11-28T17:32:44.7723270+01:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-11-28T17:32:44.7733310+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-11-28T17:32:44.7734130+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-11-28T17:32:44.7734550+01:00  [INF] Content root path: "/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2" (b5d60022)
+2022-11-28T17:33:08.4416780+01:00  [ERR] (node:26542) [DEP0111] DeprecationWarning: Access to process.binding('http_parser') is deprecated.
+ (c947fad8)
+2022-11-28T17:33:08.4431770+01:00  [ERR] (Use `node --trace-deprecation ...` to show where the warning was created)
+ (567f389e)
+2022-11-28T17:36:34.1778210+01:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-11-28T17:36:34.1949000+01:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-11-28T17:36:34.1953250+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-11-28T17:36:34.1954110+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-11-28T17:36:34.2029700+01:00  [INF] Content root path: "/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2" (b5d60022)
+2022-11-28T17:36:54.9591730+01:00  [ERR] (node:26580) [DEP0111] DeprecationWarning: Access to process.binding('http_parser') is deprecated.
+ (08c5ffa6)
+2022-11-28T17:36:54.9609070+01:00  [ERR] (Use `node --trace-deprecation ...` to show where the warning was created)
+ (567f389e)
+2022-11-28T17:37:19.0387030+01:00 0HMMHBQR4M419:00000004 [INF] Hentet EN bruker (b38ee227)
+2022-11-28T17:37:19.2131130+01:00 0HMMHBQR4M418:00000006 [INF] Akskjer har blitt hentet til 'hjem.html' (fe7f27df)
+2022-11-28T17:37:48.8099640+01:00 0HMMHBQR4M418:00000007 [INF] Hentet EN bruker (b38ee227)
+2022-11-28T17:37:48.8451390+01:00 0HMMHBQR4M419:00000005 [INF] Hentet aksje med id: 1 (64e63d2b)
+2022-11-28T17:37:52.2248810+01:00 0HMMHBQR4M418:00000008 [INF] Hentet aksje med id: 1 (64e63d2b)
+2022-11-28T17:37:52.2294510+01:00 0HMMHBQR4M41A:00000003 [INF] Hentet EN bruker (b38ee227)
+2022-11-28T17:37:52.2359840+01:00 0HMMHBQR4M419:00000006 [INF] Et kjøp har blitt gjort på aksje med id: 1 (dc86d4e2)
+2022-11-28T17:37:57.1409070+01:00 0HMMHBQR4M419:00000007 [INF] Hentet EN bruker (b38ee227)
+2022-11-28T17:37:57.2108700+01:00 0HMMHBQR4M41A:00000004 [INF] Transaksjonene har blitt hentet til 'Transaksjoner.html' (8456ebe4)
+2022-11-28T17:37:58.2368430+01:00 0HMMHBQR4M419:00000008 [INF] Hentet EN bruker (b38ee227)
+2022-11-28T17:37:58.2809530+01:00 0HMMHBQR4M41A:00000005 [INF] Portfolio har blitt hentet til 'portfolio.html' (72c87a0b)
+2022-11-28T17:37:59.9562000+01:00 0HMMHBQR4M419:00000009 [INF] Hentet EN bruker (b38ee227)
+2022-11-28T17:37:59.9575270+01:00 0HMMHBQR4M41A:00000006 [INF] Hentet aksje med id: 1 (64e63d2b)
+2022-11-28T17:38:02.6600660+01:00 0HMMHBQR4M41A:00000007 [INF] Et kjøp har blitt gjort på aksje med id: 1 (dc86d4e2)
+2022-11-28T17:38:02.8221270+01:00 0HMMHBQR4M419:0000000A [INF] Hentet EN bruker (b38ee227)
+2022-11-28T17:38:02.8221270+01:00 0HMMHBQR4M41A:00000008 [INF] Hentet aksje med id: 1 (64e63d2b)
+2022-11-28T17:38:04.3670830+01:00 0HMMHBQR4M41A:00000009 [INF] Hentet EN bruker (b38ee227)
+2022-11-28T17:38:04.3773930+01:00 0HMMHBQR4M419:0000000B [INF] Transaksjonene har blitt hentet til 'Transaksjoner.html' (8456ebe4)
+2022-11-28T17:38:05.1881250+01:00 0HMMHBQR4M41A:0000000A [INF] Hentet EN bruker (b38ee227)
+2022-11-28T17:38:05.2113810+01:00 0HMMHBQR4M419:0000000C [INF] Portfolio har blitt hentet til 'portfolio.html' (72c87a0b)
+2022-11-28T17:38:16.3389540+01:00 0HMMHBQR4M41A:0000000B [INF] Hentet EN bruker (b38ee227)
+2022-11-28T17:38:16.3474500+01:00 0HMMHBQR4M419:0000000D [INF] Akskjer har blitt hentet til 'hjem.html' (fe7f27df)
+2022-11-28T17:38:18.6405560+01:00 0HMMHBQR4M41A:0000000C [INF] Hentet aksje med id: 3 (7859e412)
+2022-11-28T17:38:18.7965900+01:00 0HMMHBQR4M419:0000000E [INF] Hentet EN bruker (b38ee227)
+2022-11-28T17:38:21.9153990+01:00 0HMMHBQR4M419:0000000F [INF] Et kjøp har blitt gjort på aksje med id: 3 (348184da)
+2022-11-28T17:38:22.0841220+01:00 0HMMHBQR4M419:00000010 [INF] Hentet aksje med id: 3 (7859e412)
+2022-11-28T17:38:22.2405420+01:00 0HMMHBQR4M41A:0000000D [INF] Hentet EN bruker (b38ee227)
+2022-11-28T17:38:23.4450460+01:00 0HMMHBQR4M41A:0000000E [INF] Portfolio har blitt hentet til 'portfolio.html' (72c87a0b)
+2022-11-28T17:38:23.5772470+01:00 0HMMHBQR4M419:00000011 [INF] Hentet EN bruker (b38ee227)
+2022-11-28T17:38:23.9312030+01:00 0HMMHBQR4M419:00000012 [INF] Transaksjonene har blitt hentet til 'Transaksjoner.html' (8456ebe4)
+2022-11-28T17:38:24.0680560+01:00 0HMMHBQR4M41A:0000000F [INF] Hentet EN bruker (b38ee227)
+2022-11-28T19:44:48.3928100+01:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-11-28T19:44:48.4005410+01:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-11-28T19:44:48.4009470+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-11-28T19:44:48.4010160+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-11-28T19:44:48.4010640+01:00  [INF] Content root path: "/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2" (b5d60022)
+2022-11-28T19:45:10.6470120+01:00  [ERR] (node:27276) [DEP0111] DeprecationWarning: Access to process.binding('http_parser') is deprecated.
+ (6ebcd194)
+2022-11-28T19:45:10.6481630+01:00  [ERR] (Use `node --trace-deprecation ...` to show where the warning was created)
+ (567f389e)
+2022-11-28T19:51:10.7231130+01:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-11-28T19:51:10.7437070+01:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-11-28T19:51:10.7441430+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-11-28T19:51:10.7442110+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-11-28T19:51:10.7442760+01:00  [INF] Content root path: "/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2" (b5d60022)
+2022-11-28T19:51:31.2065990+01:00  [ERR] (node:27375) [DEP0111] DeprecationWarning: Access to process.binding('http_parser') is deprecated.
+ (823b0e5b)
+2022-11-28T19:51:31.2081520+01:00  [ERR] (Use `node --trace-deprecation ...` to show where the warning was created)
+ (567f389e)
+2022-11-28T19:54:30.6054320+01:00 0HMMHE626OUQO:00000009 [INF] LagreBruker - Error 400: Bad Request (addcd8b3)
+2022-11-28T19:54:36.5052680+01:00 0HMMHE626OUQR:0000000F [INF] LagreBruker - Error 400: Bad Request (addcd8b3)
+2022-11-28T19:54:53.2389900+01:00 0HMMHE626OUQO:00000014 [INF] Selg - Error 404: Not Found (f2e1f4c2)
+2022-11-28T19:56:02.5421610+01:00 0HMMHE626OUQR:00000028 [INF] Selg - Error 404: Not Found (f2e1f4c2)
+2022-11-28T20:02:27.5255970+01:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-11-28T20:02:27.5337600+01:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-11-28T20:02:27.5350250+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-11-28T20:02:27.5351160+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-11-28T20:02:27.5351730+01:00  [INF] Content root path: "/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2" (b5d60022)
+2022-11-28T20:02:48.2827840+01:00  [ERR] (node:27509) [DEP0111] DeprecationWarning: Access to process.binding('http_parser') is deprecated.
+ (d51f1e9a)
+2022-11-28T20:02:48.2839900+01:00  [ERR] (Use `node --trace-deprecation ...` to show where the warning was created)
+ (567f389e)
+2022-11-28T20:04:54.3301080+01:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-11-28T20:04:54.3432780+01:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-11-28T20:04:54.3435840+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-11-28T20:04:54.3436180+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-11-28T20:04:54.3436620+01:00  [INF] Content root path: "/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2" (b5d60022)
+2022-11-28T20:05:15.7968410+01:00  [ERR] (node:27555) [DEP0111] DeprecationWarning: Access to process.binding('http_parser') is deprecated.
+ (c3caa3b9)
+2022-11-28T20:05:15.7981640+01:00  [ERR] (Use `node --trace-deprecation ...` to show where the warning was created)
+ (567f389e)
+2022-11-28T20:15:49.0404210+01:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-11-28T20:15:49.0470870+01:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-11-28T20:15:49.0489530+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-11-28T20:15:49.0491000+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-11-28T20:15:49.0491760+01:00  [INF] Content root path: "/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2" (b5d60022)
+2022-11-28T20:16:10.0444970+01:00  [ERR] (node:27651) [DEP0111] DeprecationWarning: Access to process.binding('http_parser') is deprecated.
+ (f00328da)
+2022-11-28T20:16:10.0456610+01:00  [ERR] (Use `node --trace-deprecation ...` to show where the warning was created)
+ (567f389e)
+2022-11-28T20:24:04.7062250+01:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-11-28T20:24:04.7166150+01:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-11-28T20:24:04.7261670+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-11-28T20:24:04.7262540+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-11-28T20:24:04.7263240+01:00  [INF] Content root path: "/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2" (b5d60022)
+2022-11-28T20:24:27.3927850+01:00  [ERR] (node:27763) [DEP0111] DeprecationWarning: Access to process.binding('http_parser') is deprecated.
+ (87d0249d)
+2022-11-28T20:24:27.3936000+01:00  [ERR] (Use `node --trace-deprecation ...` to show where the warning was created)
+ (567f389e)
+2022-11-28T20:44:59.5456710+01:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-11-28T20:44:59.5645140+01:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-11-28T20:44:59.5788890+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-11-28T20:44:59.5789780+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-11-28T20:44:59.5790330+01:00  [INF] Content root path: "/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2" (b5d60022)
+2022-11-28T20:45:21.0435010+01:00  [ERR] (node:27934) [DEP0111] DeprecationWarning: Access to process.binding('http_parser') is deprecated.
+ (f2f174cb)
+2022-11-28T20:45:21.0440630+01:00  [ERR] (Use `node --trace-deprecation ...` to show where the warning was created)
+ (567f389e)
+2022-11-28T20:48:45.7937150+01:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-11-28T20:48:45.8004320+01:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-11-28T20:48:45.8024150+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-11-28T20:48:45.8136530+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-11-28T20:48:45.8137510+01:00  [INF] Content root path: "/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2" (b5d60022)
+2022-11-28T20:49:06.7829520+01:00  [ERR] (node:27986) [DEP0111] DeprecationWarning: Access to process.binding('http_parser') is deprecated.
+ (1d11276e)
+2022-11-28T20:49:06.7840060+01:00  [ERR] (Use `node --trace-deprecation ...` to show where the warning was created)
+ (567f389e)
+2022-11-28T20:51:23.2868900+01:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-11-28T20:51:23.3142550+01:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-11-28T20:51:23.3325920+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-11-28T20:51:23.3327250+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-11-28T20:51:23.3327780+01:00  [INF] Content root path: "/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2" (b5d60022)
+2022-11-28T20:51:43.4473740+01:00  [ERR] (node:28017) [DEP0111] DeprecationWarning: Access to process.binding('http_parser') is deprecated.
+ (226cf09c)
+2022-11-28T20:51:43.4494910+01:00  [ERR] (Use `node --trace-deprecation ...` to show where the warning was created)
+ (567f389e)
+2022-11-28T21:07:33.3217580+01:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-11-28T21:07:33.3350860+01:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-11-28T21:07:33.3358410+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-11-28T21:07:33.3359530+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-11-28T21:07:33.3359970+01:00  [INF] Content root path: "/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2" (b5d60022)
+2022-11-28T21:07:55.8000900+01:00  [ERR] (node:28121) [DEP0111] DeprecationWarning: Access to process.binding('http_parser') is deprecated.
+ (847d6a7b)
+2022-11-28T21:07:55.8014310+01:00  [ERR] (Use `node --trace-deprecation ...` to show where the warning was created)
+ (567f389e)
+2022-11-28T21:09:31.2101950+01:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-11-28T21:09:31.2233610+01:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-11-28T21:09:31.2244830+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-11-28T21:09:31.2245570+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-11-28T21:09:31.2246240+01:00  [INF] Content root path: "/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2" (b5d60022)
+2022-11-28T21:09:51.2192020+01:00  [ERR] (node:28148) [DEP0111] DeprecationWarning: Access to process.binding('http_parser') is deprecated.
+ (1bbfad27)
+2022-11-28T21:11:48.8724580+01:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-11-28T21:11:48.8797050+01:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-11-28T21:11:48.8866110+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-11-28T21:11:48.8866950+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-11-28T21:11:48.8867770+01:00  [INF] Content root path: "/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2" (b5d60022)
+2022-11-28T21:12:09.1246460+01:00  [ERR] (node:28333) [DEP0111] DeprecationWarning: Access to process.binding('http_parser') is deprecated.
+ (4203f113)
+2022-11-28T21:12:09.1258880+01:00  [ERR] (Use `node --trace-deprecation ...` to show where the warning was created)
+ (567f389e)
+2022-11-28T21:13:54.8399070+01:00  [ERR] ERROR in app/shared/shared.service.ts:31:5 - error TS1003: Identifier expected.
+
+31     }
+       ~
+
+ (d1978c62)
+2022-11-28T21:25:20.3321230+01:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-11-28T21:25:20.3385160+01:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-11-28T21:25:20.3398520+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-11-28T21:25:20.3400710+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-11-28T21:25:20.3401630+01:00  [INF] Content root path: "/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2" (b5d60022)
+2022-11-28T21:25:41.7400460+01:00  [ERR] (node:28499) [DEP0111] DeprecationWarning: Access to process.binding('http_parser') is deprecated.
+ (a9bb59b0)
+2022-11-28T21:25:41.7415080+01:00  [ERR] (Use `node --trace-deprecation ...` to show where the warning was created)
+ (567f389e)
+2022-11-28T21:34:07.4519130+01:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-11-28T21:34:07.4759900+01:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-11-28T21:34:07.4764260+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-11-28T21:34:07.4764870+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-11-28T21:34:07.4765260+01:00  [INF] Content root path: "/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2" (b5d60022)
+2022-11-28T21:34:28.2384370+01:00  [ERR] (node:28657) [DEP0111] DeprecationWarning: Access to process.binding('http_parser') is deprecated.
+ (19e3b9b2)
+2022-11-28T21:34:28.2396590+01:00  [ERR] (Use `node --trace-deprecation ...` to show where the warning was created)
+ (567f389e)
+2022-11-28T21:36:23.1992680+01:00  [ERR] ERROR in app/components/portfolio/portfolio.ts:34:2 - error TS1005: ',' expected.
+
+34  hentAllInfo() {
+    ~~~~~~~~~~~
+app/components/portfolio/portfolio.ts:34:16 - error TS1005: ',' expected.
+
+34  hentAllInfo() {
+                  ~
+app/components/portfolio/portfolio.ts:35:7 - error TS1005: ':' expected.
+
+35  	this.http.get<PortfolioRad[]>("api/aksje/hentportfolio/" + this.brukernavn)
+    	    ~
+app/components/portfolio/portfolio.ts:48:4 - error TS1005: ',' expected.
+
+48  	);
+    	 ~
+app/components/portfolio/portfolio.ts:50:7 - error TS1005: ':' expected.
+
+50  	this.http.get<Bruker>("api/aksje/hentenbruker/" + this.brukernavn)
+    	    ~
+app/components/portfolio/portfolio.ts:63:4 - error TS1005: ',' expected.
+
+63  	);
+    	 ~
+app/components/portfolio/portfolio.ts:64:3 - error TS1005: ')' expected.
+
+64  };
+     ~
+app/components/portfolio/portfolio.ts:66:19 - error TS1005: ';' expected.
+
+66  tilKjop(aksjeId) {
+                     ~
+app/components/portfolio/portfolio.ts:71:19 - error TS1005: ';' expected.
+
+71  tilSelg(aksjeId) {
+                     ~
+app/components/portfolio/portfolio.ts:75:11 - error TS1005: ';' expected.
+
+75  loggUt() {
+             ~
+app/components/portfolio/portfolio.ts:88:1 - error TS1005: '}' expected.
+
+88 
+ (95d12c9d)
+2022-11-28T21:36:24.8075200+01:00  [ERR]    
+
+    
+ (44678b0a)
+2022-11-28T21:37:29.3205510+01:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-11-28T21:37:29.3735910+01:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-11-28T21:37:29.3824340+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-11-28T21:37:29.3825220+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-11-28T21:37:29.3825870+01:00  [INF] Content root path: "/Users/enesergin/Desktop/Webapplikasjoner/AksjeApp2/AksjeApp2" (b5d60022)
+2022-11-28T21:37:49.5809330+01:00  [ERR] (node:28715) [DEP0111] DeprecationWarning: Access to process.binding('http_parser') is deprecated.
+ (e4170494)
+2022-11-28T21:37:49.5824120+01:00  [ERR] (Use `node --trace-deprecation ...` to show where the warning was created)
+ (567f389e)
+2022-11-28T22:45:30.9087360+01:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-11-28T22:45:30.9706320+01:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-11-28T22:45:31.0506630+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-11-28T22:45:31.0778490+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-11-28T22:45:31.1046140+01:00  [INF] Content root path: "/Users/tintun/Documents/GitHub/AksjeApp2/AksjeApp2" (b5d60022)
+2022-11-28T22:45:36.4475240+01:00  [ERR] (node:15738) [DEP0111] DeprecationWarning: Access to process.binding('http_parser') is deprecated.
+ (1e216ad3)
+2022-11-28T22:45:36.5082590+01:00  [ERR] (Use `node --trace-deprecation ...` to show where the warning was created)
+ (567f389e)
+2022-11-28T22:45:37.8826080+01:00  [ERR] ERROR in app/components/hjem/hjem.ts:56:1 - error TS1185: Merge conflict marker encountered.
+
+56 <<<<<<< Updated upstream:AksjeApp2/ClientApp/src/app/components/hjem/hjem.ts
+   ~~~~~~~
+app/components/hjem/hjem.ts:57:1 - error TS1185: Merge conflict marker encountered.
+
+57 =======
+   ~~~~~~~
+app/components/hjem/hjem.ts:60:1 - error TS1185: Merge conflict marker encountered.
+
+60 >>>>>>> Stashed changes:AksjeApp2/ClientApp/src/app/hjem/hjem.ts
+   ~~~~~~~
+app/components/logginn/logginn.ts:6:1 - error TS1185: Merge conflict marker encountered.
+
+6 <<<<<<< Updated upstream:AksjeApp2/ClientApp/src/app/components/logginn/logginn.ts
+  ~~~~~~~
+app/components/logginn/logginn.ts:9:1 - error TS1185: Merge conflict marker encountered.
+
+9 =======
+  ~~~~~~~
+app/components/logginn/logginn.ts:11:1 - error TS1185: Merge conflict marker encountered.
+
+11 >>>>>>> Stashed changes:AksjeApp2/ClientApp/src/app/logginn/logginn.ts
+   ~~~~~~~
+app/components/logginn/logginn.ts:71:1 - error TS1185: Merge conflict marker encountered.
+
+71 <<<<<<< Updated upstream:AksjeApp2/ClientApp/src/app/components/logginn/logginn.ts
+   ~~~~~~~
+app/components/logginn/logginn.ts:72:1 - error TS1185: Merge conflict marker encountered.
+
+72 =======
+   ~~~~~~~
+app/components/logginn/logginn.ts:75:1 - error TS1185: Merge conflict marker encountered.
+
+75 >>>>>>> Stashed changes:AksjeApp2/ClientApp/src/app/logginn/logginn.ts
+ (946e4444)
+2022-11-28T22:54:53.6253580+01:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-11-28T22:54:53.7429900+01:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-11-28T22:54:53.9433110+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-11-28T22:54:53.9461040+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-11-28T22:54:53.9726690+01:00  [INF] Content root path: "/Users/tintun/Documents/GitHub/AksjeApp2/AksjeApp2" (b5d60022)
+2022-11-28T22:54:58.9449170+01:00  [ERR] (node:17787) [DEP0111] DeprecationWarning: Access to process.binding('http_parser') is deprecated.
+ (f3726d6d)
+2022-11-28T22:54:59.0011530+01:00  [ERR] (Use `node --trace-deprecation ...` to show where the warning was created)
+ (567f389e)
+2022-11-28T22:55:00.4599010+01:00  [ERR] ERROR in app/components/hjem/hjem.ts:56:1 - error TS1185: Merge conflict marker encountered.
+
+56 <<<<<<< Updated upstream:AksjeApp2/ClientApp/src/app/components/hjem/hjem.ts
+   ~~~~~~~
+app/components/hjem/hjem.ts:57:1 - error TS1185: Merge conflict marker encountered.
+
+57 =======
+   ~~~~~~~
+app/components/hjem/hjem.ts:60:1 - error TS1185: Merge conflict marker encountered.
+
+60 >>>>>>> Stashed changes:AksjeApp2/ClientApp/src/app/hjem/hjem.ts
+   ~~~~~~~
+app/components/logginn/logginn.ts:6:1 - error TS1185: Merge conflict marker encountered.
+
+6 <<<<<<< Updated upstream:AksjeApp2/ClientApp/src/app/components/logginn/logginn.ts
+  ~~~~~~~
+app/components/logginn/logginn.ts:9:1 - error TS1185: Merge conflict marker encountered.
+
+9 =======
+  ~~~~~~~
+app/components/logginn/logginn.ts:11:1 - error TS1185: Merge conflict marker encountered.
+
+11 >>>>>>> Stashed changes:AksjeApp2/ClientApp/src/app/logginn/logginn.ts
+   ~~~~~~~
+app/components/logginn/logginn.ts:71:1 - error TS1185: Merge conflict marker encountered.
+
+71 <<<<<<< Updated upstream:AksjeApp2/ClientApp/src/app/components/logginn/logginn.ts
+   ~~~~~~~
+app/components/logginn/logginn.ts:72:1 - error TS1185: Merge conflict marker encountered.
+
+72 =======
+   ~~~~~~~
+app/components/logginn/logginn.ts:75:1 - error TS1185: Merge conflict marker encountered.
+
+75 >>>>>>> Stashed changes:AksjeApp2/ClientApp/src/app/logginn/logginn.ts
+ (946e4444)
+2022-11-28T22:56:38.2803140+01:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-11-28T22:56:38.3906130+01:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-11-28T22:56:38.4212420+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-11-28T22:56:38.4495230+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-11-28T22:56:38.4758820+01:00  [INF] Content root path: "/Users/tintun/Documents/GitHub/AksjeApp2/AksjeApp2" (b5d60022)
+2022-11-28T22:56:43.3116590+01:00  [ERR] (node:17917) [DEP0111] DeprecationWarning: Access to process.binding('http_parser') is deprecated.
+ (310bd920)
+2022-11-28T22:56:43.3937850+01:00  [ERR] (Use `node --trace-deprecation ...` to show where the warning was created)
+ (567f389e)
+2022-11-28T22:56:44.8539960+01:00  [ERR] ERROR in app/components/hjem/hjem.ts:56:1 - error TS1185: Merge conflict marker encountered.
+
+56 <<<<<<< Updated upstream:AksjeApp2/ClientApp/src/app/components/hjem/hjem.ts
+   ~~~~~~~
+app/components/hjem/hjem.ts:57:1 - error TS1185: Merge conflict marker encountered.
+
+57 =======
+   ~~~~~~~
+app/components/hjem/hjem.ts:60:1 - error TS1185: Merge conflict marker encountered.
+
+60 >>>>>>> Stashed changes:AksjeApp2/ClientApp/src/app/hjem/hjem.ts
+   ~~~~~~~
+app/components/logginn/logginn.ts:6:1 - error TS1185: Merge conflict marker encountered.
+
+6 <<<<<<< Updated upstream:AksjeApp2/ClientApp/src/app/components/logginn/logginn.ts
+  ~~~~~~~
+app/components/logginn/logginn.ts:9:1 - error TS1185: Merge conflict marker encountered.
+
+9 =======
+  ~~~~~~~
+app/components/logginn/logginn.ts:11:1 - error TS1185: Merge conflict marker encountered.
+
+11 >>>>>>> Stashed changes:AksjeApp2/ClientApp/src/app/logginn/logginn.ts
+   ~~~~~~~
+app/components/logginn/logginn.ts:71:1 - error TS1185: Merge conflict marker encountered.
+
+71 <<<<<<< Updated upstream:AksjeApp2/ClientApp/src/app/components/logginn/logginn.ts
+   ~~~~~~~
+app/components/logginn/logginn.ts:72:1 - error TS1185: Merge conflict marker encountered.
+
+72 =======
+   ~~~~~~~
+app/components/logginn/logginn.ts:75:1 - error TS1185: Merge conflict marker encountered.
+
+75 >>>>>>> Stashed changes:AksjeApp2/ClientApp/src/app/logginn/logginn.ts
+ (946e4444)
+2022-11-28T23:00:17.5466880+01:00  [ERR]    ~~~~~~~
+
+
+ (354c4151)
+2022-11-28T23:01:44.9412400+01:00  [ERR] ERROR in app/components/hjem/hjem.ts:56:1 - error TS1185: Merge conflict marker encountered.
+
+56 <<<<<<< Updated upstream:AksjeApp2/ClientApp/src/app/components/hjem/hjem.ts
+   ~~~~~~~
+app/components/hjem/hjem.ts:57:1 - error TS1185: Merge conflict marker encountered.
+
+57 =======
+   ~~~~~~~
+app/components/hjem/hjem.ts:60:1 - error TS1185: Merge conflict marker encountered.
+
+60 >>>>>>> Stashed changes:AksjeApp2/ClientApp/src/app/hjem/hjem.ts
+   ~~~~~~~
+app/components/logginn/logginn.ts:6:1 - error TS1185: Merge conflict marker encountered.
+
+6 <<<<<<< Updated upstream:AksjeApp2/ClientApp/src/app/components/logginn/logginn.ts
+  ~~~~~~~
+app/components/logginn/logginn.ts:9:1 - error TS1185: Merge conflict marker encountered.
+
+9 =======
+  ~~~~~~~
+app/components/logginn/logginn.ts:11:1 - error TS1185: Merge conflict marker encountered.
+
+11 >>>>>>> Stashed changes:AksjeApp2/ClientApp/src/app/logginn/logginn.ts
+   ~~~~~~~
+
+
+ (9d344613)
+2022-11-28T23:01:44.9994510+01:00  [ERR] ERROR in app/components/hjem/hjem.ts:56:1 - error TS1185: Merge conflict marker encountered.
+
+56 <<<<<<< Updated upstream:AksjeApp2/ClientApp/src/app/components/hjem/hjem.ts
+   ~~~~~~~
+app/components/hjem/hjem.ts:57:1 - error TS1185: Merge conflict marker encountered.
+
+57 =======
+   ~~~~~~~
+app/components/hjem/hjem.ts:60:1 - error TS1185: Merge conflict marker encountered.
+
+60 >>>>>>> Stashed changes:AksjeApp2/ClientApp/src/app/hjem/hjem.ts
+   ~~~~~~~
+
+ (c5971056)
+2022-11-28T23:02:38.8915810+01:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-11-28T23:02:38.9513570+01:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-11-28T23:02:38.9797500+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-11-28T23:02:39.0065290+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-11-28T23:02:39.0328400+01:00  [INF] Content root path: "/Users/tintun/Documents/GitHub/AksjeApp2/AksjeApp2" (b5d60022)
+2022-11-28T23:02:46.5108770+01:00  [ERR] (node:18056) [DEP0111] DeprecationWarning: Access to process.binding('http_parser') is deprecated.
+ (5f859930)
+2022-11-28T23:02:46.5953690+01:00  [ERR] (Use `node --trace-deprecation ...` to show where the warning was created)
+ (567f389e)
